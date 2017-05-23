@@ -1,4 +1,5 @@
 {
+  "credentials": {
   "peers": [
     {
       "discovery_host": "733151c85f21453f9c3ba2ab0f60081d-vp3.us.blockchain.ibm.com",
@@ -228,4 +229,5 @@
   ],
   "cert": "https://blockchain-certs.mybluemix.net/us.blockchain.ibm.com.cert",
   "cert_path": "/certs/peer/cert.pem"
+}
 }
